@@ -1,0 +1,74 @@
+.questions{
+    background-color: #f8f8f8;
+    border-left: 5px solid #1da1f2;
+    width:80%;
+    margin:3rem auto 0 auto;
+    padding: 1.5rem 2rem;
+
+    h3{
+        text-align: center;
+    }
+    h5{
+        font-size: 1.2rem;
+        margin-bottom: 3rem;
+        line-height: 1.5;
+        text-align: center;
+    }
+    .options-container{
+        display: inline-block;
+        width:50%;
+    }
+    .option{
+        background-color: #1da1f2;
+        border-radius: 30px;
+        color:#f8f8f8;
+        cursor: pointer;
+        margin:2rem auto;
+        padding: 1rem;
+        transition: 0.3s linear all;
+        text-align: center;
+        width:90%;
+    }
+    .option:hover{
+        background-color: darken(#1da1f2,10%);
+
+    }
+}
+.button-container{
+        display: flex;
+        justify-content: flex-start;
+        margin:0 auto 1.5rem auto;
+        padding: 2rem;
+        width:80%;
+}
+.button-container button{
+    border:none;
+    color:#f8f8f8;
+    cursor: pointer;
+    margin-right: 2rem;
+    padding:0.5rem 0.5rem;
+    width:100px;
+
+}
+.button-container button:first-child{
+background-color:darken( #1da1f2,10%);
+transition: 0.2s linear all;
+
+}
+.button-container button:first-child:hover{
+    background-color:darken( #1da1f2,20%);
+}
+.button-container button:nth-child(2){
+    background-color:darken( #57b846,10%);
+    transition: 0.2s linear all;
+}
+.button-container button:nth-child(2):hover{
+    background-color:darken( #57b846,20%);
+}
+.button-container button:nth-child(3){
+    background-color:darken( #ea4355,10%);
+    transition: 0.2s linear all;
+}
+.button-container button:nth-child(3):hover{
+    background-color:darken( #ea4355,20%);
+}

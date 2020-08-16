@@ -1,0 +1,68 @@
+#home{
+    background-image: url('../../assets/images/bg4.jpg');
+    background-size: cover;
+    background-position: center;
+    display:flex;
+    justify-content: space-around;
+    height:100vh;
+    width:100vw;
+    section{
+        background-color: rgba(0,0,0,0.7);
+        padding-left:  2rem;
+        padding-right: 2rem;
+        height: 80%;
+        width:35%;
+    }
+    h1{
+        margin-top: 20%;
+        text-align: center;
+        color: white;
+        font-size: 3rem;
+    }
+    .play-button-container{
+        margin-top: 15%;
+      
+    }
+    a.play-button{
+        background-color: #57b846;
+        color:white;
+        border-radius: 30px;
+        cursor:pointer;
+        padding: 1rem;
+        text-align: center;
+        display: block;
+        width:80%;
+        transition: 0.3s linear all;
+       margin-left:50px;
+    }
+    a.play-button:hover{
+        background-color: darken($color: #57b846, $amount: 10%);
+    }
+    .auth-container {
+        width:100%;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 5rem;
+    }
+    #login-button{
+        background-color: #ea4355;
+    }
+    #login-button:hover{
+        background-color:darken($color: #ea4355, $amount: 10%);
+    }
+    #signup-button{
+        background-color:#1da1f2;
+    }
+    #signup-button:hover{
+        background-color: darken($color:#1da1f2 ,$amount:10%);
+    }
+    .auth-container .auth-buttons{
+        color:white;
+        cursor: pointer;
+        border-radius: 30px;
+        padding:1rem 0;
+        text-align: center;
+        width:45%;
+        transition: 0.3s linear all;
+    }
+}

@@ -1,0 +1,247 @@
+ [[
+     {"question" : " Which state produces maximum soybean?", 
+        "optionA":"Madhya Pradesh",
+        "optionB":"Uttar Pradesh",
+        "optionC":"Bihar",
+        "optionD":"Rajasthan",
+        "answer": "Madhya Pradesh" 
+     
+    }, 
+    { "question":" Which country operationalized world’s largest radio telescope?", 
+        "optionA":"USA",
+        "optionB":"China",
+        "optionC":"Russia",
+        "optionD":"India",
+        "answer": "China"
+      
+    }, 
+    { "question":" Which of the following is the capital of Arunachal Pradesh?", 
+        "optionA":"Itanagar",
+        "optionB":"Dispur",
+        "optionC":"Imphal",
+        "optionD":"Panaji",
+        "answer": "Itanagar" 
+     
+    }, 
+    { "question":"Katerina Sakellaropoulou was elected the first woman President of", 
+        "optionA":"Greece",
+        "optionB":"Spain",
+        "optionC":"Finland",
+        "optionD":"Netherland",
+        "answer": "Greece"
+      
+    }, 
+    { "question":"Which one among the following radiations carries maximum energy?", 
+        "optionA":"Ultraviolet rays",
+        "optionB":"Gamma rays",
+        "optionC":"X- rays",
+        "optionD":"Infra-red rays",
+        "answer": "Gamma rays"
+      
+    }, 
+    { "question":"What is India’s rank on EIU’s Global Democracy Index 2019?", 
+        "optionA":"48th Rank",
+        "optionB":"50th Rank",
+        "optionC":"53rd Rank",
+        "optionD":"51st Rank",
+        "answer": "51st Rank" 
+      
+    }, 
+    { "question":"Which of the following states is not located in the North?", 
+        "optionA":"Jharkhand",
+        "optionB":"Jammu and Kashmir",
+        "optionC":"Himachal Pradesh",
+        "optionD":"Haryana",
+        "answer": "Jharkhand" 
+      
+    }, 
+    { "question":"India’s first satellite of 2020 GSAT-30 was successfully launched is a", 
+        "optionA":"Remote Sensing Satellite",
+        "optionB":"Communication Satelite",
+        "optionC":"Spy Satellite ",
+        "optionD":"Metrological Satellite",
+        "answer": "Communication Satelite" 
+      
+    }, 
+    { "question":"What is India’s rank on the WEF’s Global Social Mobility Index 2020?", 
+        "optionA":"75th Rank",
+        "optionB":"77th Rank",
+        "optionC":"76th Rank",
+        "optionD":"78th Rank",
+        "answer": "76th Rank"
+ 
+    }, 
+    { "question":"Bokaro Steel Limited was established with the assistance of", 
+        "optionA":"Germany",
+        "optionB":"Soviet Union",
+        "optionC":"UK",
+        "optionD":"USA",
+        "answer": "Soviet Union"
+      
+    }
+ ],
+ [
+     { "question":"In which state is the main language Khasi?", 
+        "optionA":"Mizoram",
+        "optionB":"Nagaland",
+        "optionC":"Meghalaya",
+        "optionD":"Tripura",
+        "answer": "Meghalaya" 
+      
+    },
+    { "question":"Allocation for BharatNet programme for 2020-21 is", 
+        "optionA":"10000 crore",
+        "optionB":"8000 crore",
+        "optionC":"6000 crore",
+        "optionD":"4000 crore",
+        "answer": "6000 crore"
+      
+    },
+    { "question":"The head quarters of world trade organization is in", 
+        "optionA":"Montreal",
+        "optionB":"Seattle",
+        "optionC":"Geneva",
+        "optionD":"the Hague",
+        "answer": "Geneva" 
+      
+    },
+    { "question":"“TB Harega Desh Jeetega” campaign aims to end Tuberculosis by the year", 
+        "optionA":"2025",
+        "optionB":"2030",
+        "optionC":"2035",
+        "optionD":"2040",
+        "answer": "2025" 
+      
+    },
+    { "question":"Which is the largest coffee producing state of India?", 
+        "optionA":"Kerala",
+        "optionB":"Tamil Nadu",
+        "optionC":"Karnataka",
+        "optionD":"Arunachal Pradesh",
+        "answer": "Karnataka" 
+      
+    },
+    { "question":"Agriculture credit target for the year 2020-21 has been set at", 
+        "optionA":"Rs. 15 lakh crore",
+        "optionB":"Rs. 14 lakh crore",
+        "optionC":"Rs. 13 lakh crore",
+        "optionD":"Rs. 12 lakh crore",
+        "answer": "Rs. 15 lakh crore" 
+      
+    },
+    { "question":"The 2014 football world cup is scheduled to be held in", 
+        "optionA":"China",
+        "optionB":"Australia",
+        "optionC":" Japan",
+        "optionD":"Brazil",
+        "answer": "Brazil" 
+      
+    }, 
+    { "question":"Nobel prize is awarded for which of the following disciplines:", 
+        "optionA":"Literature, peace and economics",
+        "optionB":"Medicine or Physiology",
+        "optionC":"Chemistry and Physics",
+        "optionD":"All the above",
+        "answer": "All the above" 
+      
+    },
+    { "question":"Which state has the largest population?", 
+        "optionA":"Uttar Pradesh",
+        "optionB":"Maharastra",
+        "optionC":"Bihar",
+        "optionD":"Andra Pradesh",
+        "answer": "Uttar Pradesh" 
+      
+    },
+    { "question":"Garampani Sanctuary is locate in which of the following places?", 
+        "optionA":"Junagarh, Gujarat",
+        "optionB":"Kohima, Nagaland",
+        "optionC":"Diphu, Assam",
+        "optionD":"Gangtok, Sikkim",
+        "answer": "Diphu, Assam" 
+      
+    }
+ ],
+ [
+     { "question":"The Second Italian Satellite launched from Soviet Union was", 
+        "optionA":"Rohini",
+        "optionB":"Aryabhata",
+        "optionC":"Bhaskar–1",
+        "optionD":"Apsara",
+        "answer": "Bhaskar–1" 
+      
+    },
+    { "question":"Entomology studies what?", 
+        "optionA":"Behavior of human beings",
+        "optionB":"Insects",
+        "optionC":"The origin and history of technical and scientific terms",
+        "optionD":"The formation of rocks",
+        "answer": "Insects" 
+      
+    },
+    { "question":"The language spoken by the people by Pakistan is ?", 
+        "optionA":"Hindi",
+        "optionB":"Palauan",
+        "optionC":"Sindhi",
+        "optionD":"Nauruan",
+        "answer": "Sindhi" 
+      
+    },
+    { "question":"Galileo was an astronomer who", 
+        "optionA":"developed the telescope",
+        "optionB":"discovered four satellites of Jupiter",
+        "optionC":"discovered that the movement of pendulum produces a regular time measurement",
+        "optionD":"All the above",
+        "answer": "discovered four satellites of Jupiter" 
+      
+    },
+    { "question":"The metal whose salts are sensitive to light is", 
+        "optionA":"Silver",
+        "optionB":"Zinc",
+        "optionC":"Copper",
+        "optionD":"Gold",
+        "answer": "Silver" 
+      
+    },
+    { "question":"Who is the father of geometry?", 
+        "optionA":"Aristotle",
+        "optionB":"Euclid",
+        "optionC":"Pythagoras",
+        "optionD":"Kepler",
+        "answer": "Euclid" 
+      
+    },
+    { "question":"The World Largest desert is ?", 
+        "optionA":"Thar",
+        "optionB":"Kalahari",
+        "optionC":"Sahara",
+        "optionD":"Sonoran",
+        "answer": "Sahara" 
+      
+    },
+    { "question":"Indian player Jude Felix is popular for which sports?", 
+        "optionA":"Volleyball",
+        "optionB":"Football",
+        "optionC":"Hockey",
+        "optionD":"Tennis",
+        "answer": "Hockey" 
+      
+    },
+    { "question":"The instrument useful for measuring curvature of surface is", 
+        "optionA":"Odometer",
+        "optionB":"Spherometer",
+        "optionC":"Tachometer",
+        "optionD":"Speedometer",
+        "answer": "Spherometer" 
+      
+    },
+    { "question":"Who is popularly called as the Iron Man of India?", 
+        "optionA":"Subhash Chandra Bose",
+        "optionB":"Sardar Vallabhbhai Patel",
+        "optionC":"Jawaharlal Nehru",
+        "optionD":"Govind Ballabh Pant",
+        "answer": "Sardar Vallabhbhai Patel" 
+      
+    }
+ ]
+]
